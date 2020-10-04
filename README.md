@@ -32,5 +32,5 @@ This code allows you to generate an Arabic corpus based on keywords related to t
   - Nmae: name of the json file that will be created after generation
 - The more keywords you insert, the bigger and more precise the corpus will be
  
- For more information, please contact:
+ For further questions or inquiries about this code, you can contact: 
  - abdennourbenhamida09@gmail.com
