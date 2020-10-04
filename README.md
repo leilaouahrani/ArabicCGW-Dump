@@ -4,7 +4,8 @@ This work is supported by the Ministry of Higher Education and Scientific Resear
 Conception & Supervision : L. Ouahrani & D. Bennouar / 
 Contributor : Andennour Ben Hamida.
 
-This code allows you to generate an Arabic corpus based on keywords related to the subject of your study, cleaned and ready. Your corpus will be stored in a json file in the same path as the ".py" is running. The output contains:
+This code allows to generate an Arabic corpus based on keywords related to the subject of the study, cleaned and ready to use. 
+The corpus will be stored in a json file in the same path as the ".py" is running. The output contains:
 - Corpus Name
 - Words count : total number of words and diffrent words
 - Articles count: number of wikipedia articles returned into the corpus
