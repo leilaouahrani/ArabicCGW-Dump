@@ -1,8 +1,6 @@
-# Arabic-corpus-generator-with-Wikipedia-s-dump
+# Arabic-Corpus-Generator-with-Wikipedia-s-Dump
 This work is supported by the Ministry of Higher Education and Scientific Research in Algeria (Project C00L07UN100120180002)
-
-Conception & Supervision : L. Ouahrani & D. Bennouar / 
-Contributor : Abdennour BenHamida.
+Conception & Supervision : L. Ouahrani & D. Bennouar /  Contributor : Abdennour BenHamida.
 
 This code allows to generate an Arabic corpus based on keywords related to the subject of the study, cleaned and ready to use. 
 The corpus will be stored in a json file in the same path as the ".py" is running. The output contains:
